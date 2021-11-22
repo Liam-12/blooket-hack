@@ -52,3 +52,9 @@ Open console (ctrl + shift + j) and paste the following:
 ```js
 fetch("https://raw.githubusercontent.com/glixzzy/blooket-hack/main/global/sellDupeBlooks.js").then((res) => res.text().then((t) => eval(t)))
 ```
+
+# getspookyGhost.js
+
+open console (ctrl + shift + j) and paste the following
+```js
+fetch("https://raw.githubusercontent.com/Liam-12/blooket-hack/main/global/getspookyGhost.js").then((res) => res.text().then((t) => eval(t)))
