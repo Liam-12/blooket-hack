@@ -1,4 +1,4 @@
-const capitalize = (text) => text.charAt(0).toUpperCase() + text.slice(1);
+fconst capitalize = (text) => text.charAt(0).toUpperCase() + text.slice(1);
 (async (args) => {
     let [box, amount] = args
     var name = JSON.parse(atob(localStorage.token.split('.')[1])).name,
